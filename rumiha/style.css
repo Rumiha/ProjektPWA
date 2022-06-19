@@ -1,0 +1,41 @@
+.header-logo img{
+    position: relative;
+    width: 300px;
+    top: -55px;
+}
+.page-header{
+    margin-top: 100px;
+    font-weight: bold;
+    color: black;
+}
+.page-header a:visited{
+    color: black;
+}
+.index-mini-naslov{
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+} 
+.index-sazetak{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+footer{
+    background-color: white;
+    margin-top: 100px;
+}
+
+section{
+    padding-top: 10px;
+}
+
+form{
+    padding:20px 20px 20px 0;
+}
+
+.clanak img{
+    width:100%;
+}
